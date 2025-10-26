@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Gmail-f7d747?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
   &nbsp;
-  <a href="www.linkedin.com/in/ayush-kumar-9b5199329">
+  <a href="[www.linkedin.com/in/ayush-kumar-9b5199329](https://www.linkedin.com/in/ayush-kumar-9b5199329/)">
     <img src="https://img.shields.io/badge/LinkedIn-f7d747?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
 </p>
